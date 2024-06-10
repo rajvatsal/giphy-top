@@ -1,2 +1,1 @@
 # giphy-top
-# giphy-top
